@@ -1,4 +1,5 @@
-# MidtermProject1
+# Baltimore City
+
 
 ## Background
 
@@ -19,19 +20,30 @@ ___How can we combat life expectancy and mortality rates in the 44-64 age group 
 
 __[]():__ this 
 
+
+## Data Questions
+
+_Does in Baltimore City?_
+
+_How does the data group itself into separate clusters of neighborhoods in Baltimore City?_
+
 ## Data Analysis 
 
-___How does the data group itself into separate clusters of neighborhoods in Baltimore City?___
 *maybe put a graph
 ![alt text](https://gi)
 ![alt text](https://gith)
 
 
 __Clusters and Their Characteristics__
+
 Mortality Rate: 
+
 _Cluster 1_: 
+
 _Cluster 2_: 
+
 _Cluster 3_: 
+
 
 Life Expectancy: 
 
@@ -41,10 +53,10 @@ _Cluster 2_: Least well-off. Highest above average number of people in free and 
 
 _Cluster 3_: Most well-off. Lowest free and reduced meals and lowest average health index. Highest median household income, number of bike lanes, and life expectancy. 
 
-The cluster analysis helps us understand where to focus our efforts and initiatives. We should focus 
+The cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 2.
 
 
-__List of Departments and Their Relevant Cluster__
+__List of Departments and Their Relevant Cluster maybe__
 
 
-## Implementation and Summary 
+## Business Answer and Summary
