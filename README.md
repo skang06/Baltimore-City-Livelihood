@@ -34,7 +34,33 @@ _How does the data group itself into separate clusters of neighborhoods in Balti
 
 __Regression__
 
-![alt text](https://gi)
+We initially wanted to look and see whether all our variables were significant enough to affect the dependent variable. However, after doing multiple linear regression analysis for both mortality rate and life expectancy, only 1-2 variables were significant, so we decided to do simple linear regression on 2 variables, free and reduced meals and median household income.
+
+(graph for mortality rate)
+
+__**Mortality Rate, 44-64:**__
+
+The p-value for free and reduced meals was 7.5133E-11 and the p-value for median household income was 2.5459E-11, meaning that both these independent variables were significant and are able to explain the changes in the dependent variable. As we can see in the graphs above, the trendline mostly fits the shape and direction of the data points and there are no extreme outliers that skew the data. Mortality rate has a positive relationship with free and reduced meals and has a negative relationship with median household income. This means that mortality rate increases when there are more free and reduced meals and mortality rate decreases when median household income is greater.
+
+Equations:
+
+Mortality rate = 1.922(free/reduced meals) – 21.416
+
+Mortality rate = -0.001(median household income) + 180.110
+
+(graph for life expectancy)
+
+__**Life Expectancy:**__
+
+The p-value for free and reduced meals was 8.0678E-11 and the p-value for median household income was 6.3693E-14, meaning that both these independent variables were significant and are able to explain the changes in the dependent variable. As we can see in the graphs above, the trendline mostly fits the shape and direction of the data points and there are no extreme outliers that skew the data. Life expectancy has a negative relationship with free and reduced meals and has a positive relationship with median household income. This means that life expectancy decreases when there are more free and reduced meals and life expectancy increases when median household income is greater
+
+Equations:
+
+Life expectancy = -0.240(free/reduced meals) + 90.609
+
+Life expectancy = 0.0001(median household income) – 66.240
+
+
 
 
 __Clusters and Their Characteristics__
