@@ -23,7 +23,6 @@ __[]():__ this
 
 ## Data Questions
 
-_Does in Baltimore City?_
 
 _How does the data group itself into separate clusters of neighborhoods in Baltimore City?_
 
@@ -39,11 +38,11 @@ __Clusters and Their Characteristics__
 
 Mortality Rate: 
 
-_Cluster 1_: 
+_Cluster 1_: Cluster in between Cluster 2 and 3 in terms of all measures.
 
-_Cluster 2_: 
+_Cluster 2_: Lowest free and reduced meals and lowest average health index. Highest median household income, number of bike lanes. Most below level of mortality rate. 
 
-_Cluster 3_: 
+_Cluster 3_: Highest above average number of people in free and reduced meals. Also, the lowest median household income, number of bike lanes, and average health index among the different clusters. Highest above average rate of mortality. 
 
 
 Life Expectancy: 
@@ -54,7 +53,7 @@ _Cluster 2_: Least well-off. Highest above average number of people in free and 
 
 _Cluster 3_: Most well-off. Lowest free and reduced meals and lowest average health index. Highest median household income, number of bike lanes, and life expectancy. 
 
-The cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 2.
+The cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 2 for both analyses.
 
 
 __List of Departments and Their Relevant Cluster maybe__
