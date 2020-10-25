@@ -29,7 +29,8 @@ _How does the data group itself into separate clusters of neighborhoods in Balti
 
 ## Data Analysis 
 
-*maybe put a graph
+__Regression__
+
 ![alt text](https://gi)
 ![alt text](https://gith)
 
