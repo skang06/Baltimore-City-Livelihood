@@ -21,17 +21,29 @@ __[]():__ this
 
 ## Data Analysis 
 
-___How does the data group itself into separate clusters?___
-
-
-__Clusters and Their Characteristics__
+___How does the data group itself into separate clusters of neighborhoods in Baltimore City?___
+*maybe put a graph
 ![alt text](https://gi)
 ![alt text](https://gith)
 
-Life Expectancy: 
+
+__Clusters and Their Characteristics__
+Mortality Rate: 
 _Cluster 1_: 
 _Cluster 2_: 
 _Cluster 3_: 
+
+Life Expectancy: 
+
+_Cluster 1_: Cluster in between Cluster 2 and 3 in terms of all measures.
+
+_Cluster 2_: Least well-off. Highest above average number of people in free and reduced meals. Also, the lowest median household income, number of bike lanes, average health index, and life expectancy among the different clusters.
+
+_Cluster 3_: Most well-off. Lowest free and reduced meals and lowest average health index. Highest median household income, number of bike lanes, and life expectancy. 
+
+The cluster analysis helps us understand where to focus our efforts and initiatives. We should focus 
+
+
 __List of Departments and Their Relevant Cluster__
 
 
