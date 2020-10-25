@@ -60,35 +60,32 @@ Life expectancy = -0.240(free/reduced meals) + 90.609
 
 Life expectancy = 0.0001(median household income) – 66.240
 
-
-
-
 __Clusters and Their Characteristics__
 
 ![alt text](https://gith) <- Maybe add chart????
 
-_Mortality Rate:_ 
+__Mortality Rate:__ 
 
 _Cluster 1_: Cluster in between Cluster 2 and 3 in terms of all measures.
 
-_Cluster 2_: Lowest free and reduced meals and lowest average health index. Highest median household income, number of bike lanes. Most below level of mortality rate. 
+_Cluster 2_: Most below average number of people on free and reduced meals and lowest average health index. Most above average median household income, number of bike lanes. Most below average level of mortality rate. 
 
-_Cluster 3_: Highest above average number of people in free and reduced meals. Also, the lowest median household income, number of bike lanes, and average health index among the different clusters. Highest above average rate of mortality. 
+_Cluster 3_: Highest above average number of people in free and reduced meals. Also, the most below average median household income, number of bike lanes, and average health index among the different clusters. Highest above average rate of mortality. 
 
 
-_Life Expectancy:_ 
+__Life Expectancy:__ 
 
 _Cluster 1_: Cluster in between Cluster 2 and 3 in terms of all measures.
 
-_Cluster 2_: Least well-off. Highest above average number of people in free and reduced meals. Also, the lowest median household income, number of bike lanes, average health index, and life expectancy among the different clusters.
+_Cluster 2_: Highest above average number of people in free and reduced meals. Also, the most below average median household income, number of bike lanes, average health index, and life expectancy among the different clusters.
 
-_Cluster 3_: Most well-off. Lowest free and reduced meals and lowest average health index. Highest median household income, number of bike lanes, and life expectancy. 
-
-The cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 2 for both analyses. 
-
+_Cluster 3_: Most below average number on free and reduced meals and lowest average health index. Highest above average median household income, number of bike lanes, and life expectancy. 
 
 __List of Baltimore Neighborhoods in Cluster 2 maybe???__
-__Maybe add the graphic__
 
 
 ## Business Answer and Further Suggestions
+
+-  The cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 2 for both analyses. 
+- Although the linear regressions only indicated significance for free/reduced meals and median houseld income, the cluster analysis grouped variables together.
+
