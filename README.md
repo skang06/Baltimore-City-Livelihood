@@ -84,8 +84,17 @@ _Cluster 3_: Most below average number on free and reduced meals and lowest aver
 __List of Baltimore Neighborhoods in Cluster 2 maybe???__
 
 
-## Business Answer and Further Suggestions
+## Business Answer 
+
+- significance for free/reduced meals and median household income
+- negative relationship between free/reduced meals and life expectancy is more due to the free/reduced meals being an indicator for low income rather than free/reduced meals directly causing the lower life expectancy
+- therefore, a major focus should be put on putting more disposable income into the hands of those who most need it 
+- although these variables were not shown as significant in the linear regression, there was a clear pattern in the cluster analysis, so these are areas we should consider implementing policy as well
+- average healthy food access index --> the leading cause of mortality is heart disease, of which obesity is one of the major contributors --> we originally wanted to work specifically with obesity prevalence but our data sources didn't have the datasets necessary for us to use
+- we can extrapolate from other sources in combination with our data analyses that improving average healthy food access index could improve obesity rates and life expectancy 
 
 -  The cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 2 for both analyses. 
 - Although the linear regressions only indicated significance for free/reduced meals and median houseld income, the cluster analysis grouped variables together.
 
+## Future Suggestions
+- what entities can we pitch our ideas to? Baltimore city health department (which is already working on food access for Baltimore citizens) and potentially NGOs as well
