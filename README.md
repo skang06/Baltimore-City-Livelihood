@@ -11,8 +11,6 @@ There are many different causes of heart disease, but [The Mayo Clinic](https://
 
 This is of interest to us because we are both Baltimore citizens at least until we graduate from Hopkins. We both come from areas that are economically better than Baltimore, so perhaps we could implement aspects that we have seen in our own hometowns to improve food safety in Baltimore. Furthermore, this is relevant for government officials who could learn the most effective ways to increase life expectancy and decrease rates of mortality by route of food safety. Not to mention, the leading cause of death in the United States is heart disease, so information from our analysis could help with the larger United States as well. It shouldn't be the case that you can live longer if you live in a more well-off neighborhood.
 
-- need to explain what the different variables mean !! !
-
 
 ## Business Question
 
@@ -23,7 +21,21 @@ ___How can we combat life expectancy and mortality rates in the 44-64 age group 
 
 __[Baltimore Neighborhood Indicators Alliance](https://vital-signs-bniajfi.hub.arcgis.com/):__ 
 
-ADD LINKS!!!!
+- [Average Healthy Food Availability Index](https://vital-signs-bniajfi.hub.arcgis.com/datasets/ebf53cd13e164a96b1f890c7162cf8c7_0?geometry=-76.915%2C39.192%2C-76.326%2C39.378)
+
+- [Percentage of Students Receiving Free or Reduced Meals](https://vital-signs-bniajfi.hub.arcgis.com/datasets/2748ad5e859841f5bba17d3f208b56df_0)
+
+Number of Miles of Bike Lanes
+https://vital-signs-bniajfi.hub.arcgis.com/datasets/d88926354e4d4bab93c174a7cf2cdf2d_0
+
+Median Household Income
+https://vital-signs-bniajfi.hub.arcgis.com/datasets/8613366cfbc7447a9efd9123604c65c1_0
+
+Mortality by Age (45-64 Years old)
+https://vital-signs-bniajfi.hub.arcgis.com/datasets/d7f38ce4d36b4731b1b6cad189c8fddf_0
+
+Life Expectancy
+https://vital-signs-bniajfi.hub.arcgis.com/datasets/c7bc491a655741f59b3d80932b9857d6_0
 
 
 ## Data Questions
