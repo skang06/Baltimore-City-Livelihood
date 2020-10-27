@@ -102,18 +102,18 @@ Disposable income can be distributed in many ways, but we feel that a potentiall
 
 We originally wanted to work with obesity prevalence data to have a more pointed solution, especially since some of the leading causes of mortality in Baltimore City are heart disease and stroke, of which obesity is a major risk indicator ([Baltimore City Health Department](https://health.baltimorecity.gov/state-health-baltimore-winter-2016/state-health-baltimore-white-paper-2017#:~:text=The%20leading%20causes%20of%20death,and%20chronic%20lower%20respiratory%20diseases.)). However, since we did not have the data necessary for a direct analysis, we are extrapolating our data relating to mortality rate and life expectancy and our own research into the major causes of mortality and the public health situation in Baltimore City in order to make further detailed conclusions with the data.
 
-
-
-
 - average healthy food access index --> the leading cause of mortality is heart disease, of which obesity is one of the major contributors --> we originally wanted to work specifically with obesity prevalence but our data sources didn't have the datasets necessary for us to use
 - we can extrapolate from other sources in combination with our data analyses that improving average healthy food access index could improve obesity rates and life expectancy 
 
-Although some of the variables were not shown as significant in the multiple linear regression, there was a clear pattern in the cluster analysis, so these are areas we should consider implementing policy as well. For instance, bike lanes were not shown to be signficant in the multiple linear regression. However, according to the cluster analysis, it moved with the median household income. Like free and reduced meals, this could be more associate with wealth. Bike lanes is not that important method to spend money 
 
--  The cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 2 for both analyses. 
+Although some of the variables were not shown as significant in the multiple linear regression, there was a clear pattern in the cluster analysis, so these are areas we should consider implementing policy as well. For instance, bike lanes were not shown to be significant in the multiple linear regression. However, according to the cluster analysis, those clusters with the most above average rate of mortality or most below average age for life expectancy, also had the highest number of bike lanes. Like free and reduced meals, this could be more associate with the median household income in the neighborhoods in the cluster. Thus, we realize that bike lanes is not that important of a method to spend money in, although a cluster analysis alone might have suggested it. 
 
-- Although the linear regressions only indicated significance for free/reduced meals and median household income, the cluster analysis grouped variables together.
+Likewise, the average healthy food availability index was found to be insignificant in the multiple linear regression, and it also did not show any substantial pattern in the cluster analysis. For instance, for the cluster analysis in life expectancy, cluster 3 grouped those with the most below average health food availability index score with the highest life expectancy. Additionally, for the cluster analysis for mortality rate, cluster 3 grouped the most below average rate of mortality with the most below average healthy food accessibility score. Thus, we realize that improving the food retail around the area is not that important of a method to spend money in, although a cluster analysis alone might have suggested it. 
 
+Overall, the cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 2 for both analyses as they include the neighborhoods with the most above average rate of mortality and lowest life expectancy.
 
 ## Future Suggestions
 - what entities can we pitch our ideas to? Baltimore city health department (which is already working on food access for Baltimore citizens) and potentially NGOs as well
+- More specific data on heart disease and obesity would help.
+- Better measure of access of healthy food accessibility.
+
