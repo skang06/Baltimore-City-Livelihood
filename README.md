@@ -72,24 +72,26 @@ Life expectancy = 0.0001(median household income) – 66.240
 
 __Clusters and Their Characteristics__
 
-![alt text](https://gith) <- Maybe add chart????
+![alt text](https://github.com/skang06/Baltimore-City-Livelihood/blob/main/mortalityratte.png)
 
 __Mortality Rate:__ 
 
-_Cluster 1_: Cluster in between Cluster 2 and 3 in terms of all measures.
+_Cluster 1_ (Lauraville): Cluster in between Cluster 2 and 3 in terms of all measures.
 
-_Cluster 2_: Most below average number of people on free and reduced meals and lowest average healthy food availability index. Most above average median household income, number of bike lanes. Most below average level of mortality rate. 
+_Cluster 2_ (Greater Roland Park/Poplar Hill): Most below average number of people on free and reduced meals and lowest average healthy food availability index. Most above average median household income, number of bike lanes. Most below average level of mortality rate. 
 
-_Cluster 3_: Highest above average number of people in free and reduced meals. Also, the most below average median household income, number of bike lanes, and average healthy food accessibility index among the different clusters. Highest above average rate of mortality. 
+_Cluster 3_(Pimlico/Arlington/Hilltop): Highest above average number of people in free and reduced meals. Also, the most below average median household income, number of bike lanes, and average healthy food accessibility index among the different clusters. Highest above average rate of mortality. 
 
 
 __Life Expectancy:__ 
+
+![alt text](https://github.com/skang06/Baltimore-City-Livelihood/blob/main/lifeexpectancy.png) 
 
 _Cluster 1_ (Lauraville): Cluster in between Cluster 2 and 3 in terms of all measures.
 
 _Cluster 2_ (Allendale/Irvington/S.Hilton) : Highest above average number of people in free and reduced meals. Also, the most below average median household income, number of bike lanes, average health index, and life expectancy among the different clusters.
 
-_Cluster 3_ (: Most below average number on free and reduced meals and lowest average healthy food availability index. Highest above average median household income, number of bike lanes, and life expectancy. 
+_Cluster 3_ (North Baltimore/Guilford/Homeland): Most below average number on free and reduced meals and lowest average healthy food availability index. Highest above average median household income, number of bike lanes, and life expectancy. 
 
 
 ## Business Answer 
