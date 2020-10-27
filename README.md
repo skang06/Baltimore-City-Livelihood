@@ -106,8 +106,6 @@ As shown in Baltimore City Health Department’s snapshot of the city’s public
 
 However, the cause of the eating habits may not be due to the students themselves but rather a lack of income necessary to buy healthier food options. This related to a policy we suggested above, universal basic income; there are also other ways to supply healthy food options such as food distribution centers and special discounts on certain food items, similar to programs such as the WIC program ([WIC](https://www.fns.usda.gov/wic)). In addition, many of these unhealthy food options are provided by the school itself. Many school lunches contain unhealthy calories and quite a few students rely on free and reduced lunches to get one meal a day ([UC Davis Health](https://health.ucdavis.edu/good-food/blog/school-lunches-and-kids.html)). Therefore, schools should increase their funding for providing healthier food options for school lunches.
  
-
-
 Although some of the variables were not shown as significant in the multiple linear regression, there was a clear pattern in the cluster analysis, so these are areas we should consider implementing policy as well. For instance, bike lanes were not shown to be significant in the multiple linear regression. However, according to the cluster analysis, those clusters with the most above average rate of mortality or most below average age for life expectancy, also had the highest number of bike lanes. Like free and reduced meals, this could be more associate with the median household income in the neighborhoods in the cluster. Thus, we realize that bike lanes is not that important of a method to spend money in, although a cluster analysis alone might have suggested it. 
 
 Likewise, the average healthy food availability index was found to be insignificant in the multiple linear regression, and it also did not show any substantial pattern in the cluster analysis. For instance, for the cluster analysis in life expectancy, cluster 3 grouped those with the most below average health food availability index score with the highest life expectancy. Additionally, for the cluster analysis for mortality rate, cluster 3 grouped the most below average rate of mortality with the most below average healthy food accessibility score. Thus, we realize that improving the food retail around the area is not that important of a method to spend money in, although a cluster analysis alone might have suggested it. 
@@ -115,7 +113,10 @@ Likewise, the average healthy food availability index was found to be insignific
 Overall, the cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 2 for both analyses as they include the neighborhoods with the most above average rate of mortality and lowest life expectancy.
 
 ## Future Suggestions
+
+This is of interest to us because we are both Baltimore citizens at least until we graduate from Hopkins. Furthermore, this analysis is relevant for government officials who could learn the most effective and efficient ways to increase life expectancy and decrease rates of mortality. Not to mention, the leading cause of death in the United States is heart disease, so information from our analysis could help improve mortality rates and life expectancy in the United States as a whole as well. This problem is important as obviously we would like to create for a more equitable society, where people's livelihoods are not affected based on where they live- especially if there are ways to do so. 
+
 - what entities can we pitch our ideas to? Baltimore city health department (which is already working on food access for Baltimore citizens) and potentially NGOs as well
-- More specific data on heart disease and obesity would help.
-- Better measure of access of healthy food accessibility.
+
+To further draw more specific conclusions, more specific data on heart disease and obesity would help. Better measure of access of healthy food accessibility.
 
