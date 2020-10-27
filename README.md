@@ -1,4 +1,4 @@
-# Baltimore City
+# Baltimore City Livelihood
 
 
 ## Background
@@ -85,13 +85,11 @@ _Cluster 3_: Highest above average number of people in free and reduced meals. A
 
 __Life Expectancy:__ 
 
-_Cluster 1_: Cluster in between Cluster 2 and 3 in terms of all measures.
+_Cluster 1_ (Lauraville): Cluster in between Cluster 2 and 3 in terms of all measures.
 
-_Cluster 2_: Highest above average number of people in free and reduced meals. Also, the most below average median household income, number of bike lanes, average health index, and life expectancy among the different clusters.
+_Cluster 2_ (Allendale/Irvington/S.Hilton) : Highest above average number of people in free and reduced meals. Also, the most below average median household income, number of bike lanes, average health index, and life expectancy among the different clusters.
 
-_Cluster 3_: Most below average number on free and reduced meals and lowest average healthy food availability index. Highest above average median household income, number of bike lanes, and life expectancy. 
-
-__List of Baltimore Neighborhoods in Cluster 2 maybe???__
+_Cluster 3_ (: Most below average number on free and reduced meals and lowest average healthy food availability index. Highest above average median household income, number of bike lanes, and life expectancy. 
 
 
 ## Business Answer 
@@ -106,9 +104,7 @@ As shown in Baltimore City Health Department’s snapshot of the city’s public
 
 However, the cause of the eating habits may not be due to the students themselves but rather a lack of income necessary to buy healthier food options. This related to a policy we suggested above, universal basic income; there are also other ways to supply healthy food options such as food distribution centers and special discounts on certain food items, similar to programs such as the WIC program ([WIC](https://www.fns.usda.gov/wic)). In addition, many of these unhealthy food options are provided by the school itself. Many school lunches contain unhealthy calories and quite a few students rely on free and reduced lunches to get one meal a day ([UC Davis Health](https://health.ucdavis.edu/good-food/blog/school-lunches-and-kids.html)). Therefore, schools should increase their funding for providing healthier food options for school lunches.
  
-Although some of the variables were not shown as significant in the multiple linear regression, there was a clear pattern in the cluster analysis, so these are areas we should consider implementing policy as well. For instance, bike lanes were not shown to be significant in the multiple linear regression. However, according to the cluster analysis, those clusters with the most above average rate of mortality or most below average age for life expectancy, also had the highest number of bike lanes. Like free and reduced meals, this could be more associate with the median household income in the neighborhoods in the cluster. Thus, we realize that bike lanes is not that important of a method to spend money in, although a cluster analysis alone might have suggested it. 
-
-Likewise, the average healthy food availability index was found to be insignificant in the multiple linear regression, and it also did not show any substantial pattern in the cluster analysis. For instance, for the cluster analysis in life expectancy, cluster 3 grouped those with the most below average health food availability index score with the highest life expectancy. Additionally, for the cluster analysis for mortality rate, cluster 3 grouped the most below average rate of mortality with the most below average healthy food accessibility score. Thus, we realize that improving the food retail around the area is not that important of a method to spend money in, although a cluster analysis alone might have suggested it. 
+Although some of the variables were not shown as significant in the multiple linear regression, there was a clear pattern in the cluster analysis. For instance, bike lanes were not shown to be significant in the multiple linear regression. However, according to the cluster analysis, those clusters with the most above average rate of mortality or most below average age for life expectancy, also had the highest number of bike lanes. Like free and reduced meals, this could be more associate with the median household income in the neighborhoods in the cluster. Thus, we realize that bike lanes is not that important of a method to spend money in, although a cluster analysis alone might have suggested it. 
 
 Overall, the cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 2 for both analyses as they include the neighborhoods with the most above average rate of mortality and lowest life expectancy.
 
@@ -116,7 +112,7 @@ Overall, the cluster analysis helps us understand where to focus our efforts and
 
 The policies we have suggested can be pitched to public entities such as the Baltimore City Health Department, which is already working on various programs to help with food access, and also private entities such as NGOs like Eco City Farms or Food Link, Inc. ([Foodtank](https://foodtank.com/news/2014/11/five-awesome-food-organizations-in-maryland/)). There isn’t necessarily a shift or pivot that needs to happen in order for such changes like we have suggested to occur. Rather, there just needs to be stronger urgency in establishing programs like universal basic income and better assistance with healthy food access
 
-This is of interest to us because we are both Baltimore citizens at least until we graduate from Hopkins. Furthermore, this analysis is relevant for government officials who could learn the most effective and efficient ways to increase life expectancy and decrease rates of mortality. Not to mention, the leading cause of death in the United States is heart disease, so information from our analysis could help improve mortality rates and life expectancy in the United States as a whole as well. This problem is important as obviously we would like to create for a more equitable society, where people's livelihoods are not affected based on where they live- especially if there are ways to do so. 
+This is of interest to us because we are both Baltimore citizens while we are college studentts. Furthermore, this analysis is relevant for government officials who could learn the most effective and efficient ways to increase life expectancy and decrease rates of mortality. Not to mention, our analysis could help improve mortality rates and life expectancy in the United States as a whole as well. Obviously we would like to create for a more equitable society, where people's livelihoods are not affected based on where they live- especially if there are ways to do so. 
 
 To further draw more specific conclusions, more specific data on heart disease and obesity would help as well as a better measure of healthy food accessibility.
 
