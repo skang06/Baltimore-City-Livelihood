@@ -104,8 +104,7 @@ Disposable income can be distributed in many ways, but we feel that a potentiall
 - average healthy food access index --> the leading cause of mortality is heart disease, of which obesity is one of the major contributors --> we originally wanted to work specifically with obesity prevalence but our data sources didn't have the datasets necessary for us to use
 - we can extrapolate from other sources in combination with our data analyses that improving average healthy food access index could improve obesity rates and life expectancy 
 
-
-- Although some of the variables were not shown as significant in the multiple linear regression, there was a clear pattern in the cluster analysis, so these are areas we should consider implementing policy as well.
+Although some of the variables were not shown as significant in the multiple linear regression, there was a clear pattern in the cluster analysis, so these are areas we should consider implementing policy as well. For instance, bike lanes were not shown to be signficant in the multiple linear regression. However, according to the cluster analysis, it moved with the median household income. Like free and reduced meals, this could be more associate with wealth. Bike lanes is not that important method to spend money 
 
 -  The cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 2 for both analyses. 
 
