@@ -96,9 +96,9 @@ __List of Baltimore Neighborhoods in Cluster 2 maybe???__
 
 ## Business Answer 
 
-- Significance for free/reduced meals and median household income
-- negative relationship between free/reduced meals and life expectancy is more due to the free/reduced meals being an indicator for low income rather than free/reduced meals directly causing the lower life expectancy
-- therefore, a major focus should be put on putting more disposable income into the hands of those who most need it 
+The linear regression analysis of our data showed that free and reduced meals and median income are significant variables that can explain the changes in life expectancy and mortality rate. Although there is a negative relationship between life expectancy and free and reduced meals, the negative relationship is more due to the free and reduced meals being an indicator for low income rather than it directly causing the lower life expectancy and higher mortality rate. Therefore, a major focus of our policies should be putting more disposable income into the hands of those who most need it.
+
+Disposable income can be distributed in many ways, but we feel that a potentially useful policy for this is universal basic income. Many studies have shown that the minimum wage is no longer a living wage and many poorer families struggle to put food on the table. Universal basic income is a hotly debated topic that could potentially mitigate this. Various experiments are being conducted across the US to see the efficacy of such a policy and should it prove effective, we believe that this would be a potential solution. 
 
 
 - average healthy food access index --> the leading cause of mortality is heart disease, of which obesity is one of the major contributors --> we originally wanted to work specifically with obesity prevalence but our data sources didn't have the datasets necessary for us to use
