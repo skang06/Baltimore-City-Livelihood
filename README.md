@@ -96,8 +96,11 @@ __List of Baltimore Neighborhoods in Cluster 2 maybe???__
 
 
 - Although some of the variables were not shown as significant in the multiple linear regression, there was a clear pattern in the cluster analysis, so these are areas we should consider implementing policy as well.
+
 -  The cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 2 for both analyses. 
+
 - Although the linear regressions only indicated significance for free/reduced meals and median household income, the cluster analysis grouped variables together.
+
 
 ## Future Suggestions
 - what entities can we pitch our ideas to? Baltimore city health department (which is already working on food access for Baltimore citizens) and potentially NGOs as well
