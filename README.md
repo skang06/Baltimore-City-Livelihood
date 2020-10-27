@@ -11,43 +11,31 @@ There are many different causes of heart disease, but [The Mayo Clinic](https://
 
 This is of interest to us because we are both Baltimore citizens at least until we graduate from Hopkins. We both come from areas that are economically better than Baltimore, so perhaps we could implement aspects that we have seen in our own hometowns to improve food safety in Baltimore. Furthermore, this is relevant for government officials who could learn the most effective ways to increase life expectancy and decrease rates of mortality by route of food safety. Not to mention, the leading cause of death in the United States is heart disease, so information from our analysis could help with the larger United States as well. It shouldn't be the case that you can live longer if you live in a more well-off neighborhood.
 
+- need to explain what the different variables mean !! !
+
+
 ## Business Question
 
 ___How can we combat life expectancy and mortality rates in the 44-64 age group in Baltimore City through food system initiatives?___
 
+
 ## Open Data 
 
-[Baltimore Neighborhood Indicators Alliance](https://vital-signs-bniajfi.hub.arcgis.com/): Open data source that we received data from.
+__[Baltimore Neighborhood Indicators Alliance](https://vital-signs-bniajfi.hub.arcgis.com/):__ 
 
-- [Average Healthy Food Availability Index](https://vital-signs-bniajfi.hub.arcgis.com/datasets/ebf53cd13e164a96b1f890c7162cf8c7_0?geometry=-76.915%2C39.192%2C-76.326%2C39.378): 
-measures the nutritional environment of food retails in the area. It's a score that combines the nutritional and access to the food. Higher the score, the betters the access of healthy food.
- 
-- [Percentage of Students Receiving Free or Reduced Meals](https://vital-signs-bniajfi.hub.arcgis.com/datasets/2748ad5e859841f5bba17d3f208b56df_0)
-
-- Number of Miles of Bike Lanes
-https://vital-signs-bniajfi.hub.arcgis.com/datasets/d88926354e4d4bab93c174a7cf2cdf2d_0
-
-- Median Household Income
-https://vital-signs-bniajfi.hub.arcgis.com/datasets/8613366cfbc7447a9efd9123604c65c1_0
-
-- Mortality by Age (45-64 Years old)
-https://vital-signs-bniajfi.hub.arcgis.com/datasets/d7f38ce4d36b4731b1b6cad189c8fddf_0
-
-- Life Expectancy
-https://vital-signs-bniajfi.hub.arcgis.com/datasets/c7bc491a655741f59b3d80932b9857d6_0
+ADD LINKS!!!!
 
 
 ## Data Questions
 
-
-
+_Does median income and free and reduced meals explain the changes in mortality rate and life expectancy in Baltimore City?_
 _How does the data group itself into separate clusters of neighborhoods in Baltimore City?_
 
 ## Data Analysis 
 
 __Regression__
 
-We initially wanted to look and see whether all our variables were significant enough to affect the dependent variable. However, after doing multiple linear regression analysis for both mortality rate and life expectancy, only 1-2 variables were significant, so we decided to do simple linear regression on 2 variables, free and reduced meals and median household income.
+We initially wanted to look and see whether all our variables were significant enough to affect the dependent variable. However, after doing multiple linear regression analysis for both mortality rate and life expectancy, only 1-2 variables were significant, so we decided to do simple linear regression on all the independent variables and found that 2 variables, free and reduced meals and median household income, were significant for both mortality rate and life expectancy. Average healthy food index was significant for mortality rate with a p-value of 0.0358, but its R-squared value was 0.0805, so we decided to not include it as one of the variables to visualize and discuss.
 
 (graph for mortality rate)
 
@@ -105,7 +93,6 @@ __List of Baltimore Neighborhoods in Cluster 2 maybe???__
 
 
 - average healthy food access index --> the leading cause of mortality is heart disease, of which obesity is one of the major contributors --> we originally wanted to work specifically with obesity prevalence but our data sources didn't have the datasets necessary for us to use
-
 - we can extrapolate from other sources in combination with our data analyses that improving average healthy food access index could improve obesity rates and life expectancy 
 
 
