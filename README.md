@@ -58,7 +58,7 @@ Mortality rate = 1.922(free/reduced meals) – 21.416
 
 Mortality rate = -0.001(median household income) + 180.110
 
-(graph for life expectancy)
+![alt text](https://github.com/skang06/Baltimore-City-Livelihood/blob/main/midterm%20project%20life%20exp%20graphs.png)
 
 __**Life Expectancy:**__
 
