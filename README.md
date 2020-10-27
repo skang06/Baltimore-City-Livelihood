@@ -114,9 +114,9 @@ Overall, the cluster analysis helps us understand where to focus our efforts and
 
 ## Future Suggestions
 
+The policies we have suggested can be pitched to public entities such as the Baltimore City Health Department, which is already working on various programs to help with food access, and also private entities such as NGOs like Eco City Farms or Food Link, Inc. ([Foodtank](https://foodtank.com/news/2014/11/five-awesome-food-organizations-in-maryland/)). There isn’t necessarily a shift or pivot that needs to happen in order for such changes like we have suggested to occur. Rather, there just needs to be stronger urgency in establishing programs like universal basic income and better assistance with healthy food access
+
 This is of interest to us because we are both Baltimore citizens at least until we graduate from Hopkins. Furthermore, this analysis is relevant for government officials who could learn the most effective and efficient ways to increase life expectancy and decrease rates of mortality. Not to mention, the leading cause of death in the United States is heart disease, so information from our analysis could help improve mortality rates and life expectancy in the United States as a whole as well. This problem is important as obviously we would like to create for a more equitable society, where people's livelihoods are not affected based on where they live- especially if there are ways to do so. 
 
-- what entities can we pitch our ideas to? Baltimore city health department (which is already working on food access for Baltimore citizens) and potentially NGOs as well
-
-To further draw more specific conclusions, more specific data on heart disease and obesity would help. Better measure of access of healthy food accessibility.
+To further draw more specific conclusions, more specific data on heart disease and obesity would help as well as a better measure of healthy food accessibility.
 
