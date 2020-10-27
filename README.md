@@ -78,9 +78,9 @@ __Mortality Rate:__
 
 _Cluster 1_: Cluster in between Cluster 2 and 3 in terms of all measures.
 
-_Cluster 2_: Most below average number of people on free and reduced meals and lowest average health index. Most above average median household income, number of bike lanes. Most below average level of mortality rate. 
+_Cluster 2_: Most below average number of people on free and reduced meals and lowest average healthy food availability index. Most above average median household income, number of bike lanes. Most below average level of mortality rate. 
 
-_Cluster 3_: Highest above average number of people in free and reduced meals. Also, the most below average median household income, number of bike lanes, and average health index among the different clusters. Highest above average rate of mortality. 
+_Cluster 3_: Highest above average number of people in free and reduced meals. Also, the most below average median household income, number of bike lanes, and average healthy food accessibility index among the different clusters. Highest above average rate of mortality. 
 
 
 __Life Expectancy:__ 
@@ -89,7 +89,7 @@ _Cluster 1_: Cluster in between Cluster 2 and 3 in terms of all measures.
 
 _Cluster 2_: Highest above average number of people in free and reduced meals. Also, the most below average median household income, number of bike lanes, average health index, and life expectancy among the different clusters.
 
-_Cluster 3_: Most below average number on free and reduced meals and lowest average health index. Highest above average median household income, number of bike lanes, and life expectancy. 
+_Cluster 3_: Most below average number on free and reduced meals and lowest average healthy food availability index. Highest above average median household income, number of bike lanes, and life expectancy. 
 
 __List of Baltimore Neighborhoods in Cluster 2 maybe???__
 
