@@ -3,12 +3,12 @@
 
 ## Background
 
-[CBS Baltimore](https://baltimore.cbslocal.com/2017/07/06/life-expectancy-baltimore/) stated there are discrepancies in terms of life-expectancy in different areas of Baltimore. In fact, poorer areas of Baltimore had a life expectancy that was 20-years lower than that of richer areas. Lower life expectancy and higher rates of mortality in poorer areas indicate that people are dying prematurely when these are preventable solutions, as those in richer areas are not dying so early. This problem is important as obviously we would like to create for a more equitable society, where people's livelihoods are not affected based on where they live- especially if there are ways to do so. According to [Baltimore City’s health department](https://health.baltimorecity.gov/state-health-baltimore-winter-2016/state-health-baltimore-white-paper-2017#:~:text=The%20leading%20causes%20of%20death,and%20chronic%20lower%20respiratory%20diseases), the leading cause of death in the city is heart disease. Life expectancy and mortality rates in the 44-64 age group in Baltimore can be assumed to be correlated with heart disease. There are many different causes of heart disease, but [The Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118) states that the most common type of heart disease, atherosclerosis, is caused by an unhealthy diet, lack of exercise, and being overweight. These are issues that are amendable. Thus, working with food system initiatives is a practical way to help. Hence, a look into various variables related to food systems in neighborhoods in the city of Baltimore was endeavored. This is relevant for government officials who could learn the most effective ways to increase life expectancy and decrease rates of mortality by route of food safety. Not to mention, the leading cause of death in the United States is heart disease, so information from our analysis could help with the larger United States as well. It shouldn't be the case that you can live longer if you live in a more well-off neighborhood.
+[CBS Baltimore](https://baltimore.cbslocal.com/2017/07/06/life-expectancy-baltimore/) stated there are discrepancies in terms of life-expectancy in different areas of Baltimore. In fact, poorer areas of Baltimore had a life expectancy that was 20-years lower than that of richer areas. Lower life expectancy and higher rates of mortality in poorer areas indicate that people are dying prematurely when these are preventable solutions, as those in richer areas are not dying so early. This problem is important as obviously we would like to create for a more equitable society, where people's livelihoods are not affected based on where they live- especially if there are ways to do so. According to [Baltimore City’s health department](https://health.baltimorecity.gov/state-health-baltimore-winter-2016/state-health-baltimore-white-paper-2017#:~:text=The%20leading%20causes%20of%20death,and%20chronic%20lower%20respiratory%20diseases), the leading cause of death in the city is heart disease. Life expectancy and mortality rates in the 45-64 age group in Baltimore can be assumed to be correlated with heart disease. There are many different causes of heart disease, but [The Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118) states that the most common type of heart disease, atherosclerosis, is caused by an unhealthy diet, lack of exercise, and being overweight. These are issues that are amendable. Thus, working with food system initiatives is a practical way to help. Hence, a look into various variables related to food systems in neighborhoods in the city of Baltimore was endeavored. This is relevant for government officials who could learn the most effective ways to increase life expectancy and decrease rates of mortality by route of food safety. Not to mention, the leading cause of death in the United States is heart disease, so information from our analysis could help with the larger United States as well. It shouldn't be the case that you can live longer if you live in a more well-off neighborhood.
 
 
 ## Business Question
 
-___How can we combat life expectancy and mortality rates in the 44-64 age group in Baltimore City through food system initiatives?___
+___How can we combat life expectancy and mortality rates in the 45-64 age group in Baltimore City through food system initiatives?___
 
 
 ## Open Data 
@@ -30,7 +30,7 @@ ___How can we combat life expectancy and mortality rates in the 44-64 age group 
 
 ## Data Questions
 
-_Does median income and free and reduced meals explain the changes in mortality rate and life expectancy in Baltimore City?_
+_Does median income and free and reduced meals explain the changes in mortality rate (45-64 age) and life expectancy in Baltimore City?_
 
 _How does the data group itself into separate clusters of neighborhoods in Baltimore City?_
 
@@ -102,7 +102,7 @@ However, the cause of the eating habits may not be due to the students themselve
  
 Although some of the variables were not shown as significant in the multiple linear regression, there was a clear pattern in the cluster analysis. For instance, bike lanes were not shown to be significant in the multiple linear regression. However, according to the cluster analysis, those clusters with the most above average rate of mortality or most below average age for life expectancy, also had the highest number of bike lanes. Like free and reduced meals, this could be more associate with the median household income in the neighborhoods in the cluster. Thus, we realize that bike lanes is not that important of a method to spend money in, although a cluster analysis alone might have suggested it. 
 
-Overall, the cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 2 for both analyses as they include the neighborhoods with the most above average rate of mortality and lowest life expectancy.
+Overall, the cluster analysis helps us understand where to focus our efforts and initiatives. We should focus on the neighborhoods in cluster 3 in the analysis with mortality rate in it as it had the most above average rate of mortality, and cluster 2 in the analysis with life expectancy as it had the most below average lowest life expectancy.
 
 ## Future Suggestions
 
